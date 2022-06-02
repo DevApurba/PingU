@@ -1,0 +1,1 @@
+worker: java -jar build/libs/Pingyu-1.0-all.jar
